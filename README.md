@@ -103,3 +103,15 @@ chmod +x install_flutter.sh
 ## 🛠️ Post-installation
 
 Após o término da instalação, **reinicie o terminal** ou execute `source ~/.bashrc` (ou `source ~/.zshrc`) fpara carregar as novas variáveis de ambiente na sessão atual.
+
+
+##### ☕ Buy Me a Coffee
+
+Se você gosta deste projeto e quer apoiar o desenvolvimento, pode contribuir com um café!  
+
+**PIX:** `pix@adfastltda.com.br`
+**PayPal:** [Doar](https://www.paypal.com/ncp/payment/TSLA567NR39LA) 
+
+Toda ajuda e sugestoes é bem-vinda e motivadora!  
+
+Obrigado pelo apoio! 🙏
