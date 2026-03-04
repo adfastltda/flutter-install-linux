@@ -66,5 +66,6 @@ sdkmanager "platform-tools" "platforms;android-34" "build-tools;34.0.0"
 echo "🔍 Rodando flutter doctor..."
 flutter doctor
 flutter upgrade
+flutter doctor --android-licenses
 
 echo "✅ Instalação do Flutter finalizada com sucesso!"
