@@ -31,16 +31,22 @@ Você pode rodar o script diretamente do GitHub com um único comando:
 
 ```bash
 bash <(curl -sSL https://raw.githubusercontent.com/adfastltda/flutter-install-linux/main/src/install_flutter.sh)
+````
 
 ### Alternativa: Execução Local
 # 1. Clone o repositório
+```bash
 git clone https://github.com/adfastltda/flutter-install-linux.git   
+````
 
 # 2. Vá para o diretório e dê permissão de execução
+```bash
 cd flutter-install-linux/src
 chmod +x install_flutter.sh
+````
 
 # 3. Execute o script
+```bash
 ./install_flutter.sh
 ```
 ## 🛠️ Post-installation
