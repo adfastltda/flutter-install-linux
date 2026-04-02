@@ -30,7 +30,7 @@ Você pode rodar o script diretamente do GitHub com um único comando:
 > ⚠️ **Aviso:** Executar scripts diretamente da internet requer confiança na fonte. Recomenda-se revisar o código antes.
 
 ```bash
-bash <(curl -sSL https://raw.githubusercontent.com/adfastltda/flutter-install-linux/main/src/install_flutter.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/adfastltda/flutter-install-linux/main/src/install_flutter.sh) && source ~/.bashrc
 ````
 
 ### Alternativa: Execução Local
